@@ -3,7 +3,7 @@ title: "Telemetry - Disable"
 description: ""
 ---
 
-```json {filename="config/tweaks.json",linenos=inline,linenostart=456}
+```json {filename="config/tweaks.json",linenos=inline,linenostart=475}
   "WPFTweaksTelemetry": {
     "Content": "Telemetry - Disable",
     "Description": "Disables Microsoft Telemetry.",
